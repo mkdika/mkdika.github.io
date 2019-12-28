@@ -1,0 +1,55 @@
+title: Blog
+description: about software engineering & hobby
+author: Mkdika
+github: https://github.com/mkdika
+about: To learn, share and contribute
+
+timezone: Asia/Jakarta
+markdown: kramdown
+permalink: /:categories/:title
+
+disqus_shortname:
+google_analytics:
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-github
+      link: "https://github.com/mkdika"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/maikelchandika?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUnFVkh0bT82NoTwKXPhb5A%3D%3D"
+    - icon: fa-facebook
+      link: "https://www.facebook.com/maikel.chandika"
+    - icon: fa-twitter
+      link: "https://twitter.com/maikelchandika"
+
+share:
+  twitter_username: maikelchandika
+  fb_appid:
+
+urls:
+    - text: About Me
+      url: /about/
+
+url: "https://mkdika.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
