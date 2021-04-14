@@ -6,7 +6,7 @@ comments  : false
 ---
 Hi, My name is **Maikel Chandika**
 
-I'm a software engineer and Open Source Software enthusiast base in Tangerang, Indonesia. My working is more about back-end, some of fullstack web, system designs and architectures. I've been writing codes for several years, and as hobbyist coder too in my free time.
+I'm a software engineer and Open Source Software enthusiast base in Tangerang (Greater area of Jakarta), Indonesia. My working is more about back-end, some of fullstack web, system designs and architectures. I've been writing codes for several years, and as hobbyist coder too in my free time.
 
 I create this blog to dump, share my thoughs. I hope you found this blog useful.
 

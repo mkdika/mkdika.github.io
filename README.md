@@ -1,1 +1,1 @@
-# blog.mkdika
+# Mkdika blog
