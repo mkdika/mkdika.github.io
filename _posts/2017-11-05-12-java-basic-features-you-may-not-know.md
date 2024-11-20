@@ -6,7 +6,7 @@ categories  : Java
 tags        : [java, oca]
 comments    : true
 ---
-![Imgur](https://i.imgur.com/sDrqQW3.png)
+![Imgur](/static/img/java.png)
 
 Recently I took the Oracle Certified Associate Java Programmer 8 (OCAJP). Even has been become
 a Java programmer for many years, there are still several new things, especially the detail things
@@ -218,7 +218,7 @@ class ArrayDemo {
 
 And the output:
 
-```bash
+```java
 [[0, 0], [0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0, 0]]
 ```
 
