@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.9.0'
+ruby '3.3.4'
+
+gem 'jekyll', '~> 3.10.0'
 
 group :jekyll_plugins do
   gem 'github-pages'
@@ -13,3 +15,4 @@ end
 
 # Performance-booster for watching directories on Windows
 gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
+gem 'faraday-retry'
